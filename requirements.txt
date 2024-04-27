@@ -1,0 +1,16 @@
+beautifulsoup4==4.11.1
+django-allauth==0.51.0
+django-bootstrap5==22.1
+django-cors-headers==3.7.0
+django-crispy-forms==1.14.0
+django-phonenumber-field==7.1.0
+django-phonenumbers==1.0.1
+django-seed==0.3.1
+djoser==2.1.0
+fastapi==0.95.0
+ipython==8.5.0
+pillow==9.2.0
+psycopg2-binary==2.9.6
+python-dotenv==0.17.1
+twilio==8.2.0
+uvicorn==0.21.1

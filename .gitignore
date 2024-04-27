@@ -1,0 +1,5 @@
+.env
+project/__pycache__/
+accounts/__pycache__/
+customers/__pycache__/
+migrations/
